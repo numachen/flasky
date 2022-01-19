@@ -14,4 +14,5 @@ The code examples for the first edition of the book were moved to a different re
 1. 熟悉了Flask整体架构，以及各功能模块的使用；
 2. 由于书本中使用的包比较老旧，所以改用最新的工具包；
 3. 项目工程化的相关知识，包之间的构建搭配；
+4. set FLASK_APP=manage.py
 --------------------------------------------
